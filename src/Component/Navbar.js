@@ -22,8 +22,19 @@ function Navbar() {
   return (
     <>
     <div style={navbar}> 
-       
-   
+      {
+        data.map((el,id)=>(
+        <div key={id}>
+          <img src={el.img} style={{ height: '25px', width: '25px' }}/>
+          <p style={{marginTop:'2px'}}>{el.p}</p>
+         </div> 
+
+        ))
+      }
+    <div>
+<img src={filterr} alt='img'   /> 
+
+</div>
 
     </div>
     </>
