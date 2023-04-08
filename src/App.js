@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
        <Header/>
-       {/* <Main/>
-       <Navbar/> */}
+    
+       <Navbar/>
+       
     </div>
   );
 }
