@@ -6,13 +6,15 @@ const Header =()=>{
 //-------------- css here-----------------------------------//
 
 const head= {
-    border:'1px solid black',
+ 
 
      display:'flex',
      flexDirection:'row',
      justifyContent:'space-around',
      height:'10vh',
      alignItems: 'center',
+     marginLeft:'-50px',
+     marginRight:'-50px'
 }
 const logofirst={
       
