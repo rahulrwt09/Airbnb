@@ -1,0 +1,61 @@
+{
+"hotels": [
+{
+"name": "Grand Hotel",
+"location": "New York",
+"image": "https://a0.muscache.com/im/pictures/miso/Hosting-26117817/original/9da40e3c-5846-4359-bb41-05c27b09a8f5.jpeg?im_w=320",
+"rating": 4.5
+},
+{
+"name": "The Ritz-Carlton",
+"location": "London",
+"image": "https://a0.muscache.com/im/pictures/miso/Hosting-48554731/original/a79e82dc-85a0-463a-b769-ff90eb2b9d17.jpeg?im_w=320",
+"rating": 4.8
+},
+{
+  "name": "Shangri-La Hotel",
+  "location": "Paris",
+  "image": "https://a0.muscache.com/im/pictures/e13a992d-bf31-4c1d-972a-b4131bcff1ba.jpg?im_w=320",
+  "rating": 4.8
+},
+
+{
+"name": "The Plaza Hotel",
+"location": "New York",
+"image": "https://a0.muscache.com/im/pictures/cf65c091-2925-4a16-9fe0-f75915494f29.jpg?im_w=320",
+"rating": 4.7
+},
+{
+"name": "Hotel del Coronado",
+"location": "California",
+"image": "https://a0.muscache.com/im/pictures/7e5510e1-dff9-4190-bfb5-ded7d9064905.jpg?im_w=320",
+"rating": 4.6
+},
+{
+"name": "The Waldorf Astoria",
+"location": "New York",
+"image": "https://a0.muscache.com/im/pictures/d8d629d7-9307-4b24-a8ae-b01d95e36124.jpg?im_w=320",
+"rating": 4.7
+},
+{
+"name": "Four Seasons Resort Bali",
+"location": "Bali",
+"image": "https://a0.muscache.com/im/pictures/miso/Hosting-654001690497595692/original/94605df9-10d9-4082-ad2d-3b11ec519386.jpeg?im_w=320",
+"rating": 4.9
+},
+
+
+{
+  "name": "The Beverly Hills Hotel",
+  "location": "California",
+  "image": "https://a0.muscache.com/im/pictures/6e7dc37e-34c1-4f20-95c7-5d5cff6b6731.jpg?im_w=320",
+  "rating": 4.7
+},
+{
+  "name": "Mandarin Oriental",
+  "location": "Tokyo",
+  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-792998192311502493/original/004e8de6-1846-421f-8c76-dc49dca3ec3b.jpeg?im_w=320",
+  "rating": 4.7
+}
+]
+}
