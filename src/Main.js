@@ -18,14 +18,15 @@ function Main() {
    paddingTop:'20px'
   }
   const subcss={
-    height:'250px',
+    height:'380px',
     width:'280px',
+   
     
   }
   const imgcss= {
   backgroundSize:'cover',
   width: '100%',
-  height:' 100%',
+  height:'250px',
   borderRadius:'5%',
   }
   console.log(data);
