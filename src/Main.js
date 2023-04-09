@@ -14,7 +14,7 @@ function Main() {
    gridTemplateColumns: 'repeat(4, 1fr)',
    gridTemplateRows: 'repeat(4, 1fr)',
    gridGap: '7px',
-   paddingLeft:'20px',
+   paddingLeft:'50px',
    paddingTop:'20px'
   }
   const subcss={
@@ -43,7 +43,7 @@ function Main() {
       <img src={el.image} style={imgcss}/>
       <p>{<i class="fa-solid fa-hotel" style={{color:'#FF5A5F'}}></i>}{"-"}{el.name}</p>
       
-      <p>{<i class="fa-solid fa-location-dot" style={{color:'red'}}></i>}{" "}{el.location}</p>
+      <p>{<i class="fa-solid fa-location-dot" style={{color:'#FF5A5F'}}></i>}{" "}{el.location}</p>
       <p>{<i class="fa-solid fa-star" style={{color:'#e3ac07'}}></i>}{" "}{el.rating }</p>
       
 

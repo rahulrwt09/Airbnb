@@ -56,6 +56,52 @@
   "location": "Tokyo",
   "image": "https://a0.muscache.com/im/pictures/miso/Hosting-792998192311502493/original/004e8de6-1846-421f-8c76-dc49dca3ec3b.jpeg?im_w=320",
   "rating": 4.7
-}
+},
+
+    {
+      "image": "https://a0.muscache.com/im/pictures/f96a829d-8895-4e9d-983e-4a73b2168064.jpg?im_w=320",
+      "name": "Stylish apartment in city center",
+      "location": "New York, NY",
+      "rating": 4.5
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/0bbac954-3194-4aef-b37e-cea9761010e6.jpg?im_w=320",
+      "name": "Charming cottage in the countryside",
+      "location": "Cotswolds, UK",
+      "rating": 4.8
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/8ea2908e-abe5-4a80-b333-e629cab85cc5.jpg?im_w=320",
+      "name": "Luxurious villa with private pool",
+      "location": "Bali, Indonesia",
+      "rating": 5.0
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/0c0ce493-0995-41f6-8b6d-30bf439e3ac0.jpg?im_w=320",
+      "name": "Cozy cabin in the woods",
+      "location": "Lake Tahoe, CA",
+      "rating": 4.2
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-626503661103872723/original/6c659e6b-2740-4f1d-b895-c67163d54add.jpeg?im_w=320",
+      "name": "Sleek loft in downtown Tokyo",
+      "location": "Tokyo, Japan",
+      "rating": 4.7
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-684445004358329366/original/79489ae2-2dbc-4dfa-abb9-103ec9d2c42b.jpeg?im_w=320",
+      "name": "Spacious apartment with ocean view",
+      "location": "Miami, FL",
+      "rating": 4.9
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-5698099/original/3ea816e8-1b93-4a25-bb0e-2a3ee6448c6e.jpeg?im_w=320",
+      "name": "Rustic farmhouse in the countryside",
+      "location": "Tuscany, Italy",
+      "rating": 4.6
+    }
+
+
+
 ]
 }
